@@ -1,0 +1,7 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+:host {
+    font-size: 24px;
+}
